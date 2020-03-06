@@ -3,4 +3,6 @@
 ## Functionalities include:
 
 - Add/delete items
-- 
+- Addition/deletion of items redirects to main page
+- Prior to deletion, confirmation is required
+- When there are no item in the list the message, "No Wish Items Exist" appear
